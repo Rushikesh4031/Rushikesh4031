@@ -1,5 +1,5 @@
 <h1>Hi,I'm Rushikesh 👋 </h1>
-<p>A passionate and dynamic full-stack developer focused on the MERN stack. I am driven to create impactful, user-centric solutions that blend functionality with innovation. Excited about stepping into the world of AI and Web3 soon, I’m always eager to learn, grow, and contribute to meaningful projects. </p>
+<p>I’m a MERN stack developer passionate about building impactful, user-friendly solutions. Excited to dive into AI and Web3, I’m always eager to learn and grow through meaningful projects. </p>
 <h1>💡 Why I Stand Out</h1>
 <p>
 <ul>
