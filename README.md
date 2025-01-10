@@ -1,6 +1,6 @@
 <h1>Hi,I'm Rushikesh 👋 </h1>
 <p>I’m a MERN stack developer passionate about building impactful, user-friendly solutions. Excited to dive into AI and Web3, I’m always eager to learn and grow through meaningful projects. </p>
-<h1>💡 Why I Stand Out:</h1>
+<h1>💡 Why I Stand Out :</h1>
 <p>
 <ul>
   <li><b>🏆 Coding Competitor:</b> Secured second place in prestigious competitions like Code-Invoice and college-level PBL events.</li>
@@ -11,7 +11,7 @@
 </ul>
 
 </p>
-<h2>🔧 My Toolkit:</h2>
+<h2>🔧 My Toolkit :</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -31,7 +31,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡ Where to find me:</h2>
+<h2>⚡ Where to find me :</h2>
 <p>
   <a target="_blank" href="https://twitter.com/imrushikesh_09" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
